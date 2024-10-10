@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: green;
+   
+}
+
+
+header {
+    background-color: rgb(66, 117, 66);
+    color: white;
+    text-align: center;
+}
+
+
+section#assunto01 {
+    background-color: white;
+    h1{
+        color:green;
+        background-color: rgba(97, 160, 97, 0.26);
+    }
+    h2 {
+        color: green;
+        background-color: rgba(96, 165, 96, 0.26);
+    }
+}
+
+section#assunto02 {
+    background-color: white;
+    h1{
+        background-color: rgba(12, 206, 12, 0.795);
+        color: white;
+    }
+}
+
+footer {
+    background-color: rgb(8, 87, 8);
+    text-align: center;
+}
+
+
+
