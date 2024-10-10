@@ -2,4 +2,4 @@
  curso
 
 
-FAVELA VENCEU ! FAZ O L !
+FAVELA VENCEU ! 
