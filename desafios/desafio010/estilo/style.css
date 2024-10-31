@@ -170,6 +170,7 @@ div.video{
     padding-bottom: 57%;
     position: relative;
 }
+
 div.video> iframe {
     position: absolute;
     top: 5%;
@@ -186,6 +187,7 @@ aside {
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.274);
 
 }
+
 aside > h3 {
     background-color: var(--cor4);
     color: white;
@@ -209,6 +211,7 @@ footer {
     font-size: 0.8em;
     padding: 5px;
 }
+
 footer a {
     text-decoration: underline;
     color: var(--cor1);
